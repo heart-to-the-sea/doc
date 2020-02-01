@@ -357,7 +357,7 @@
   }
 
   var CONFIG = {
-    placeholder: "搜索",
+    placeholder: "Type to search",
     noData: "No Results!",
     paths: "auto",
     depth: 2,

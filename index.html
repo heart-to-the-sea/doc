@@ -10,19 +10,27 @@
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
     <link rel="stylesheet" href="./assets/css/vue.css" />
+    <link rel="stylesheet" href="./assets/css/backtop.css" />
   </head>
   <body>
     <div id="app"></div>
+    <!-- 自定义添加一些东西 Vue -->
+    <div id="custom">
+      <div class="back-top" v-on:click="fnBackTop" v-show="backTop.isShow">
+        <img src="./assets/img/scroll.png" alt="scroll" />
+      </div>
+    </div>
     <script>
       window.$docsify = {
-        // el: "#app",
         name: "手抄文档",
         subMaxLevel: 5,
         loadSidebar: true,
         search: "auto"
       };
     </script>
-    <script src="./assets//js/docsify.js"></script>
-    <script src="./assets//js//search.js"></script>
+    <script src="./assets/js/vue.js"></script>
+    <script src="./assets/js/docsify.js"></script>
+    <script src="./assets/js/search.js"></script>
+    <script src="./assets/js/custom.js"></script>
   </body>
 </html>
