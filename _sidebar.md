@@ -8,6 +8,7 @@
   - [2020.02.05](everyday-problem/2020.02.05/0-疑问.md)
   - [2020.03.05](everyday-problem/2020.03.05/0-疑问.md)
   - [2020.04.05](everyday-problem/2020.04.05/0-疑问.md)
+  - [2020.08.05](everyday-problem/2020.08.05/0-疑问.md)
 
 * 知识点
 
@@ -42,7 +43,7 @@
   - [JS 实现冒牌排序和选择排序](./404.html)
 
 - 笔记
-  - [学习node上](notebook/学习node上.md)
-  - [TypeScript手册笔记](notebook/TypeScript手册笔记.md)
-  - [vue生命周期](notebook/vue生命周期.md)
-  - [vuex使用](notebook/vuex使用.md)
+  - [学习 node 上](notebook/学习node上.md)
+  - [TypeScript 手册笔记](notebook/TypeScript手册笔记.md)
+  - [vue 生命周期](notebook/vue生命周期.md)
+  - [vuex 使用](notebook/vuex使用.md)
