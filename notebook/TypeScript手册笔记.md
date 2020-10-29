@@ -58,12 +58,10 @@
 ### 联合类型
 
 ```typescript
-interface TestClass{
- name:string|String
+interface TestClass {
+  name: string | String;
 }
 ```
-
-
 
 ### 交叉类型
 
@@ -73,5 +71,11 @@ interface TestClass{
 - interface 是不是就相当于’类‘了，预设固定的属性及其类型，使用的时候不多不少不能变！(不设置可选属性及任意属性的话就是不多不少不可变，直接定死了对象的形状)
 - 给一个函数参数定义类型时，现在怎么指定参数只能是普通对象（不包括 Date() RegExp() 等等）
 - `implements`和`extends`的区别?接口实现?接口继承?
+  - 类实现接口
+  - 类实现接口并继承类
+  - 接口继承接口
+  - 接口继承类
+  - 类继承类
+  - 疑问:类实现接口的时候,那个接口与抽象类有什么区别?
 - 这个是啥意思? `declare` 是什么关键词?
   ![Snipaste_2020-10-27_11-52-27](https://cdn.llow22.com/picture/Snipaste_2020-10-27_11-52-27.png)
