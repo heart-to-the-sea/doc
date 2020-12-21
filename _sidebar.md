@@ -10,6 +10,8 @@
   - [2020.04.05](everyday-problem/2020.04.05/0-疑问.md)
   - [2020.08.05](everyday-problem/2020.08.05/0-疑问.md)
   - [2020.09.05](everyday-problem/2020.09.05/0-疑问.md)
+  - [2020.10.05](everyday-problem/2020.10.05/0-疑问.md)
+  - [2020.12.05](everyday-problem/2020.12.05/0-疑问.md)
 
 * 知识点
 
